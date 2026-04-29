@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🟣 RigPK
+<img src="https://raw.githubusercontent.com/AzaanFaisal606/rigpk-front/main/public/favicon.svg" width="64" height="64" alt="RigPK logo" />
+
+# RigPK
 
 **PCPartPicker for Pakistan**
 
