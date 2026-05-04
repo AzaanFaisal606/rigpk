@@ -6,7 +6,7 @@
 
 **PCPartPicker for Pakistan**
 
-Browse PC parts from Pakistani retailers, build your own rig, check compatibility, and explore prebuilt systems — all in one place.
+Everything in one place, no going from website to website, store to store, looking to upgrade a specific part you have listings of 100s of them, enjoy!.
 
 [![Backend](https://img.shields.io/badge/backend-rigpk--backend-7c3aed?style=flat-square)](https://github.com/AzaanFaisal606/rigpk-backend)
 [![Frontend](https://img.shields.io/badge/frontend-rigpk--front-7c3aed?style=flat-square)](https://github.com/AzaanFaisal606/rigpk-front)
@@ -18,9 +18,11 @@ Browse PC parts from Pakistani retailers, build your own rig, check compatibilit
 
 ## What Is This?
 
-Pakistan has no dedicated PC part price aggregator. Buyers manually check 5–6 retailer sites, compare prices, and guess at compatibility. RigPK fixes that.
+When building my own Geming Rig, I really wished there was a website like PC-Part-Picker for pakistan, so that I wouldn't have to go through the multiple websites of different retailers, some old and slow.
+So I decided to build this, take all the part listings and even prebuilts and show them all in one place for users to track/ compare prices.
 
 It scrapes prices from major Pakistani PC retailers daily, stores them with history, and surfaces everything through a fast, filterable interface — plus a PC builder that tells you when parts are incompatible before you buy.
+This is meant to be a learning/(why not) project for me, so I will keep adding new Ideas or things im curious to learn. 
 
 ---
 
@@ -92,6 +94,10 @@ Scrapers fetch product pages from each retailer using plain `urllib` — no head
 **Frontend:** Next.js 16 · TypeScript · Framer Motion
 
 ---
+
+## Disclaimer
+
+The database is not presistent as of yet, since project is deployed on render free tier, currently I run a fresh scrape at the end of every week on my personal computer, and push the updated databse to the root repo to serve as a default DB, presistant DB and automated scrapes will be implemented soon.
 
 <div align="center">
 Built by <a href="https://github.com/AzaanFaisal606">Azaan Faisal</a> · MIT License
