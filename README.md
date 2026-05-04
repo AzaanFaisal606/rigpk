@@ -18,7 +18,7 @@ Everything in one place, no going from website to website, store to store, looki
 
 ## What Is This?
 
-When building my own Geming Rig, I really wished there was a website like PC-Part-Picker for pakistan, so that I wouldn't have to go through the multiple websites of different retailers, some old and slow.
+When building my own Gaming Rig, I really wished there was a website like PC-Part-Picker for pakistan, so that I wouldn't have to go through the multiple websites of different retailers, some old and slow.
 So I decided to build this, take all the part listings and even prebuilts and show them all in one place for users to track/ compare prices.
 
 It scrapes prices from major Pakistani PC retailers daily, stores them with history, and surfaces everything through a fast, filterable interface — plus a PC builder that tells you when parts are incompatible before you buy.
